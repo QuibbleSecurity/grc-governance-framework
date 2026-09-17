@@ -62,4 +62,5 @@ SOC 2 (Trust Services Criteria), NIST CSF 2.0, ISO/IEC 27001, HIPAA Security Rul
 
 ## License
 
-Templates in this repository are provided under the [MIT License](LICENSE) for reference and reuse. They are illustrative starting points, not a substitute for a tailored engagement.
+© 2026 Quibble Security LLC. All rights reserved. This repository is published for reference and portfolio purposes only — see [LICENSE](LICENSE). The methodology, templates, and questionnaires here are illustrative starting points, not a substitute for a tailored engagement, and may not be reproduced, reused, or redistributed without written permission.
+

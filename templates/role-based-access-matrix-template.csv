@@ -1,0 +1,56 @@
+Role,System/Resource,Access Level,Notes
+Executive Leadership,Identity Provider / MDM,View,Oversight only; provisioning remains an IT function
+Executive Leadership,Compliance / Evidence Platform,Admin,Compliance oversight and evidence review
+Executive Leadership,Financial Platforms,Admin,Full financial visibility and approval authority
+Executive Leadership,Cap Table / Equity Platform,Admin,Equity administration
+Executive Leadership,Payroll Platform,Admin,Payroll and HR oversight
+Executive Leadership,Password Manager,Standard,
+Executive Leadership,Shared Drive - General,Standard,
+Executive Leadership,Shared Drive - HR Subfolder,None,Excluded per HR data segregation practice
+Executive Leadership,Cloud Infrastructure / Source Control / CRM,None,Not required for role
+Engineering / Development,Identity Provider / MDM,Standard,Self-service; device enrollment
+Engineering / Development,Cloud Infrastructure,Standard - Elevated,Scoped to assigned environment; production access reviewed periodically
+Engineering / Development,Source Control,Standard,Repository access scoped to assigned projects
+Engineering / Development,Project Tracking,Standard,
+Engineering / Development,Password Manager,Standard,
+Engineering / Development,Shared Drive - General,Standard,Engineering folders
+Engineering / Development,Compliance Platform / CRM / Financial Platforms,None,Not required for role
+Engineering / Development,Shared Drive - HR Subfolder,None,
+IT / Security Administrator,Identity Provider / MDM,Admin,
+IT / Security Administrator,Cloud Infrastructure,Admin,Infrastructure administration
+IT / Security Administrator,Source Control,Admin,Org-level
+IT / Security Administrator,Project Tracking,Standard,
+IT / Security Administrator,Password Manager,Admin,Vault visibility for security oversight
+IT / Security Administrator,Compliance Platform,Admin,
+IT / Security Administrator,Shared Drive - General,Admin,Folder structure and permissions management
+IT / Security Administrator,CRM / Financial Platforms,None,Not required for role
+IT / Security Administrator,Shared Drive - HR Subfolder,None,Unless dual HR/IT responsibility is formally assigned
+Finance & Operations,Identity Provider / MDM,View,Own account only
+Finance & Operations,Financial Platforms,Standard - Admin,Admin reserved for Controller / Finance lead
+Finance & Operations,Cap Table / Equity Platform,Standard,
+Finance & Operations,Payroll Platform,Standard,
+Finance & Operations,CRM,View,
+Finance & Operations,Password Manager,Standard,
+Finance & Operations,Compliance Platform,View,
+Finance & Operations,Shared Drive - General,Standard,Finance folders
+Finance & Operations,Cloud Infrastructure / Source Control / Project Tracking,None,
+Finance & Operations,Shared Drive - HR Subfolder,None,
+HR,Identity Provider / MDM,View,Submits access requests; does not provision directly
+HR,Payroll Platform,Admin,
+HR,Cap Table / Equity Platform,View,Equity records for HR administration
+HR,Password Manager,Standard,
+HR,Compliance Platform,Standard,Onboarding / offboarding evidence tracking
+HR,Shared Drive - General,Standard,
+HR,Shared Drive - HR Subfolder,Admin,
+HR,Cloud Infrastructure / Source Control / Project Tracking / CRM / Financial Platforms,None,Not required for role
+Sales / Business Development,Identity Provider / MDM,None,
+Sales / Business Development,CRM,Standard - Admin,Admin reserved for Sales/BD lead
+Sales / Business Development,Password Manager,Standard,
+Sales / Business Development,Shared Drive - General,Standard,Sales folders
+Sales / Business Development,Cloud Infrastructure / Source Control / Project Tracking / Financial Platforms / Cap Table / Payroll / Compliance Platform,None,Not required for role
+Sales / Business Development,Shared Drive - HR Subfolder,None,
+Contractors / External Vendors,All systems,Scoped per contract,No standing access by default; each system and permission level is provisioned individually per the signed agreement's scope of work
+Contractors / External Vendors,MFA,Required,No exception
+Contractors / External Vendors,BYOD (if personal device used),Governed by BYOD Policy,
+Contractors / External Vendors,Access Duration,Time-limited,Reviewed and re-approved if the engagement is extended; revoked immediately upon completion per the Offboarding Policy
+

@@ -31,10 +31,13 @@ grc-governance-framework/
 │   ├── gap-assessment-report-template.md
 │   ├── remediation-roadmap-template.md
 │   ├── control-matrix-template.csv
+│   ├── role-based-access-matrix-template.csv
 │   └── policy-suite/
 │       ├── information-security-policy-template.md
 │       ├── acceptable-use-policy-template.md
-│       └── incident-response-policy-template.md
+│       ├── incident-response-policy-template.md
+│       ├── onboarding-policy-template.md
+│       └── offboarding-policy-template.md
 ├── case-studies/            # Anonymized, illustrative engagement summaries
 │   └── example-soc2-readiness-engagement.md
 └── docs/

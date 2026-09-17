@@ -7,8 +7,8 @@ This is the core service methodology behind every Quibble Security compliance en
 **Goal:** Establish an honest, evidence-based baseline of the client's current control environment against the target framework.
 
 **Inputs:**
-- Kickoff questionnaire (scoping, systems inventory, prior audit history)
-- Stakeholder interviews (IT/engineering lead, HR, leadership)
+- Kickoff questionnaires, one per functional area ([templates](../templates/questionnaires/)): [Executive Leadership](../templates/questionnaires/executive-leadership-questionnaire-template.md), [IT/Systems](../templates/questionnaires/it-systems-questionnaire-template.md), [Finance & Operations](../templates/questionnaires/finance-operations-questionnaire-template.md), and [People/HR](../templates/questionnaires/people-hr-questionnaire-template.md) — sent ahead of kickoff so interviews build on written answers instead of starting cold
+- Stakeholder interviews (IT/engineering lead, HR, leadership) to follow up on questionnaire responses
 - Existing policy and evidence review
 
 **Outputs:**

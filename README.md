@@ -49,8 +49,8 @@ SOC 2 (Trust Services Criteria), NIST CSF 2.0, ISO/IEC 27001, HIPAA Security Rul
 
 **Quibble Security LLC** is a GRC-focused cybersecurity consultancy specializing in compliance readiness, gap assessments, and remediation program management for small and mid-sized organizations.
 
-- Website: _add link_
-- LinkedIn: _add link_
+- Website: [quibblesecurity.com](https://www.quibblesecurity.com)
+- LinkedIn: [mansa-quintyne-ii](https://www.linkedin.com/in/mansa-quintyne-ii-79233b191/)
 
 ## License
 

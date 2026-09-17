@@ -45,8 +45,11 @@ This phase is scoped to fit organizations too small for typical enterprise train
 **Goal:** Deliver a policy set that's actually mapped to the target framework's control requirements and reflects how the client really operates — not generic boilerplate.
 
 **Outputs:**
-- Core policy set ([templates](../templates/policy-suite/)): Information Security Policy, Acceptable Use Policy, Incident Response Policy, plus framework-specific additions as needed
+- Core policy set ([templates](../templates/policy-suite/)): Information Security Policy, Acceptable Use Policy, Incident Response Policy, Onboarding Policy, Offboarding Policy, plus framework-specific additions as needed
+- A [Role-Based Access Matrix](../templates/role-based-access-matrix-template.csv) establishing the authorized baseline for system access by role — referenced by both the Onboarding and Offboarding policies rather than left as an undocumented default
 - Each policy cross-referenced to the control(s) it satisfies in the control matrix
+
+Access-lifecycle management (onboarding provisioning and offboarding revocation, each with defined SLAs) is one of the most common gap categories found in Phase 1 — see the [example engagement case study](../case-studies/example-soc2-readiness-engagement.md) — which is why it now has dedicated templates rather than being folded into a general security policy.
 
 ## How the phases connect
 

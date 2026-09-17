@@ -1,0 +1,9 @@
+control_id,framework,control_family,control_description,status,risk_rating,owner,evidence_link,last_reviewed,notes
+CC1.1,SOC2,Control Environment,Organization demonstrates commitment to integrity and ethical values,Not Started,,,,,
+CC6.1,SOC2,Logical Access,Logical access to systems is restricted to authorized users,Not Started,,,,,
+CC6.6,SOC2,Logical Access,MFA is enforced for access to sensitive systems,Not Started,,,,,
+CC7.2,SOC2,System Operations,Security incidents are identified and responded to,Not Started,,,,,
+ID.AM-1,NIST_CSF,Identify - Asset Management,Physical devices and systems are inventoried,Not Started,,,,,
+PR.AC-1,NIST_CSF,Protect - Access Control,Identities and credentials are managed,Not Started,,,,,
+164.308(a)(1),HIPAA,Administrative Safeguards,Security management process,Not Started,,,,,
+164.312(a)(1),HIPAA,Technical Safeguards,Access control,Not Started,,,,,

@@ -32,6 +32,11 @@ grc-governance-framework/
 │   ├── remediation-roadmap-template.md
 │   ├── control-matrix-template.csv
 │   ├── role-based-access-matrix-template.csv
+│   ├── questionnaires/       # Phase 1 stakeholder intake questionnaires
+│   │   ├── executive-leadership-questionnaire-template.md
+│   │   ├── it-systems-questionnaire-template.md
+│   │   ├── finance-operations-questionnaire-template.md
+│   │   └── people-hr-questionnaire-template.md
 │   └── policy-suite/
 │       ├── information-security-policy-template.md
 │       ├── acceptable-use-policy-template.md

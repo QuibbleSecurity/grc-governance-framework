@@ -21,6 +21,12 @@ Compliance work is often treated as a one-off document exercise. This repository
 
 See [`methodology/four-phase-framework.md`](methodology/four-phase-framework.md) for the full write-up of each phase, inputs, outputs, and typical timeline.
 
+## Service offerings
+
+Some parts of the framework are also sold as standalone services, independent of a full four-phase engagement:
+
+- [Security Awareness Training Program](service-offerings/security-awareness-training-program.md) — a 12-month program of tailored live training, quarterly phishing simulations, and audit-ready documentation.
+
 ## Repository structure
 
 ```
@@ -43,6 +49,8 @@ grc-governance-framework/
 │       ├── incident-response-policy-template.md
 │       ├── onboarding-policy-template.md
 │       └── offboarding-policy-template.md
+├── service-offerings/       # Standalone services, sold independently of the full engagement
+│   └── security-awareness-training-program.md
 ├── case-studies/            # Anonymized, illustrative engagement summaries
 │   └── example-soc2-readiness-engagement.md
 └── docs/

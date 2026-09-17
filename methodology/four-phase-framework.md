@@ -40,6 +40,8 @@ This is the core service methodology behind every Quibble Security compliance en
 
 This phase is scoped to fit organizations too small for typical enterprise training platform seat minimums — a common gap in the 10–50 employee range.
 
+Also available as a standalone 12-month program, independent of the full four-phase engagement — see the [Security Awareness Training Program](../service-offerings/security-awareness-training-program.md) overview for the full rollout structure and deliverables.
+
 ## Phase 4 — Tailored Policy Suite
 
 **Goal:** Deliver a policy set that's actually mapped to the target framework's control requirements and reflects how the client really operates — not generic boilerplate.
@@ -59,3 +61,4 @@ Gap Assessment  →  Remediation Roadmap  →  Awareness Training  +  Policy Sui
 ```
 
 Phases 3 and 4 typically run in parallel once the roadmap is approved. For clients using continuous-monitoring platforms (Vanta, Drata), evidence collected in Phases 3–4 is wired into automated control monitoring — see [compliance-as-code-toolkit](../../compliance-as-code-toolkit) for the automation patterns used to validate and monitor that evidence.
+
